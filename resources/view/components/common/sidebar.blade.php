@@ -11,9 +11,9 @@
         id="asideShowHide">
         <div class=" text-gray-500 dark:text-gray-400 ">
             <div class="pb-2 pt-1 activeNav">
-                <h1 class="text-black text-center text-xl" id="titleLong">Garment Factory Management System
+                <h1 class="text-black text-center text-xl" id="titleLong">Template
                 </h1>
-                <h1 class="text-black text-center text-xl hidden pt-3 pb-4" id="titleShort">G.F.M.S</h1>
+                <h1 class="text-black text-center text-xl hidden pt-3 pb-4" id="titleShort">TEMP</h1>
             </div>
             <ul class="h-[90vh] overflow-y-hidden hover:overflow-y-auto aside">
 
